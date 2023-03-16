@@ -1,4 +1,4 @@
-# solo-audit-reports
+# Audit Reports
 A collection of solo audit reports by web3 security experts. Spam PRs to add reports by any independent security researcher you know of.
 
 1. Pashov - https://github.com/pashov/audits
