@@ -7,4 +7,5 @@ A collection of solo audit reports by web3 security experts. Spam PRs to add rep
 4. Ahmedovv - https://github.com/ahmedovv123/audits
 5. Roman Bohringer - https://github.com/OpenCoreCH/smart-contract-audits
 6. Jackson - https://github.com/sjkelleyjr/audit_reports
-7. Chinmay - https://github.com/chinmay-farkya/Audits
+7. Berndart Mueller - https://github.com/berndartmueller/audits
+8. Chinmay - https://github.com/chinmay-farkya/Audits
