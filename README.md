@@ -9,3 +9,5 @@ A collection of solo audit reports by web3 security experts. Spam PRs to add rep
 6. Jackson - https://github.com/sjkelleyjr/audit_reports
 7. Bernd ArtMuller - https://github.com/berndartmueller/audits
 8. Chinmay - https://github.com/chinmay-farkya/Audits
+9. peanuts - https://github.com/cryptostaker2/blockchain-security-audits
+10. CodingNameKiki - https://github.com/KikiCodingJourney/Audits
