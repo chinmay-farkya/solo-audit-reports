@@ -1,4 +1,5 @@
 # Audit Reports
+
 A collection of solo audit reports by web3 security experts. Spam PRs to add reports by any independent security researcher you know of.
 
 1. Pashov - https://github.com/pashov/audits
@@ -9,3 +10,4 @@ A collection of solo audit reports by web3 security experts. Spam PRs to add rep
 6. Jackson - https://github.com/sjkelleyjr/audit_reports
 7. Bernd ArtMuller - https://github.com/berndartmueller/audits
 8. Chinmay - https://github.com/chinmay-farkya/Audits
+9. wzrdk3lly - https://github.com/wzrdk3lly/Audits
