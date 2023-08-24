@@ -13,3 +13,4 @@ A collection of solo audit reports by web3 security experts. Spam PRs to add rep
 9. wzrdk3lly - https://github.com/wzrdk3lly/Audits
 10. Martin petrov - https://github.com/martin-petrov03/web3-audits
 11. Chrisdior and ddimitrov - https://github.com/CDSecurity/audits
+12. HollaDieWaldfee - https://github.com/HollaDieWaldfee100/audits
