@@ -16,3 +16,4 @@ A collection of solo audit reports by web3 security experts. Spam PRs to add rep
 12. HollaDieWaldfee - https://github.com/HollaDieWaldfee100/audits
 13. gkrastenov - https://github.com/gkrastenov/audits
 14. zuhaibmohd - https://github.com/zzzuhaibmohd/audits
+15. Obront - https://github.com/zobront/audits
